@@ -1,0 +1,25 @@
+/* body{
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
+
+h1{
+    position:relative;
+    left: 800px;
+    top: 800px;
+
+} */
+ .box1{
+    position: relative;
+    left: 200px;
+ }
+ .heading1{
+    position: relative;
+    left: 200px;
+ }
+ .heading2{
+    position: relative;
+    top: 80px;
+ }
+ 
+ 
