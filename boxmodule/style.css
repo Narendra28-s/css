@@ -9,7 +9,7 @@ h1{
     top: 800px;
 
 } */
- .box1{
+ /* .box1{
     position: relative;
     left: 200px;
  }
@@ -20,6 +20,28 @@ h1{
  .heading2{
     position: relative;
     top: 80px;
+ } */
+ 
+ .heading1 {
+position:sticky;
+left: 500px; */
+top: 50px;
+/* background-color:crimson; */
+
+ }  
+ .heading2{
+   position:absolute;
+   left: 500px;
+   top: 100px;
+   background-color: coral;
  }
- 
- 
+ body{
+   background-color: brown;
+ }
+ .heading3{
+   position:absolute;
+   left: 700px;
+   background-color: darkviolet;
+   text-decoration:aqua;
+   
+ }
